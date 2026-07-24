@@ -1,0 +1,469 @@
+uploads = []
+
+[[generated]]
+id = "Xr6Z08mrtmuaADMwPz-L9"
+uri = "file://artifacts/mockup-sandbox/public/images/hero-bg.png"
+type = "image"
+title = "hero banner background"
+
+[[generated]]
+id = "WjdqQmziVe7qEgwvYAGA2"
+uri = "file://artifacts/mockup-sandbox/public/images/cat-electronics.png"
+type = "image"
+title = "electronics category"
+
+[[generated]]
+id = "CbC2TFTqICnDA3jeKiwzg"
+uri = "file://artifacts/mockup-sandbox/public/images/cat-fashion.png"
+type = "image"
+title = "fashion category"
+
+[[generated]]
+id = "mTuk9qiTaKqlEjijUkUlB"
+uri = "file://artifacts/mockup-sandbox/public/images/cat-home.png"
+type = "image"
+title = "home and garden"
+
+[[generated]]
+id = "XJcPTWLg4DyKM29aTeG28"
+uri = "file://artifacts/mockup-sandbox/public/images/cat-sports.png"
+type = "image"
+title = "sports and fitness"
+
+[[generated]]
+id = "hJsr5_SQvBtVE8vWXj4FE"
+uri = "file://artifacts/mockup-sandbox/public/images/cat-beauty.png"
+type = "image"
+title = "health and beauty"
+
+[[generated]]
+id = "LsYjNqm8wIwKvgVpL8Sni"
+uri = "file://artifacts/mockup-sandbox/public/images/cat-toys.png"
+type = "image"
+title = "toys category"
+
+[[generated]]
+id = "4Y-XTRDHe79n7b1E2mmWu"
+uri = "file://artifacts/mockup-sandbox/public/images/prod-1.png"
+type = "image"
+title = "product wireless earbuds"
+
+[[generated]]
+id = "7gOfgCyLtQjCYr91ROQH_"
+uri = "file://artifacts/mockup-sandbox/public/images/prod-2.png"
+type = "image"
+title = "product smart watch"
+
+[[generated]]
+id = "_kHh3YKkSP3UR0wwM4VGz"
+uri = "file://artifacts/mockup-sandbox/public/images/prod-3.png"
+type = "image"
+title = "product desk lamp"
+
+[[generated]]
+id = "6WawRWFKxM0SmfKaVB_bk"
+uri = "file://artifacts/mockup-sandbox/public/images/service-packaging.png"
+type = "image"
+title = "service packaging custom"
+
+[[generated]]
+id = "TvXY7pa990UmP-aB91Knj"
+uri = "file://artifacts/mockup-sandbox/public/images/service-warehouse.png"
+type = "image"
+title = "service warehouse inventory"
+
+[[generated]]
+id = "wCHsjtbg70HPma0Xr72bZ"
+uri = "file://artifacts/mockup-sandbox/public/images/service-printing.png"
+type = "image"
+title = "service printing on demand"
+
+[[generated]]
+id = "rUMIhc-Pv1v50D2HZolIL"
+uri = "file://artifacts/mockup-sandbox/public/images/service-quality.png"
+type = "image"
+title = "service quality inspection"
+
+[[generated]]
+id = "mJIBW8gUJNLpy2wzvQs6q"
+uri = "file://artifacts/mockup-sandbox/public/images/findprod-1.png"
+type = "image"
+title = "Wireless earbuds product photo"
+
+[[generated]]
+id = "gC9IAGp9g2a-Khxb6Dpqr"
+uri = "file://artifacts/mockup-sandbox/public/images/findprod-2.png"
+type = "image"
+title = "Smart watch product photo"
+
+[[generated]]
+id = "W3hKEK4YaNcEkdkLB2FXL"
+uri = "file://artifacts/mockup-sandbox/public/images/findprod-3.png"
+type = "image"
+title = "LED desk lamp product photo"
+
+[[generated]]
+id = "8Rnpjw30TNHvNZW_ZByLk"
+uri = "file://artifacts/mockup-sandbox/public/images/findprod-4.png"
+type = "image"
+title = "Dumbbell set product photo"
+
+[[generated]]
+id = "qFbWHNto0TWrdl24m3xR-"
+uri = "file://artifacts/mockup-sandbox/public/images/findprod-5.png"
+type = "image"
+title = "Facial cleansing brush product photo"
+
+[[generated]]
+id = "hI_WQt1PjKk55BuJChxTx"
+uri = "file://artifacts/mockup-sandbox/public/images/findprod-6.png"
+type = "image"
+title = "Headphones product photo"
+
+[[generated]]
+id = "scNaZSxHCxQ2dgKrelccB"
+uri = "file://artifacts/mockup-sandbox/public/images/findprod-7.png"
+type = "image"
+title = "Men watch product photo"
+
+[[generated]]
+id = "Y4h8cR4GLwQScQsb2hrRS"
+uri = "file://artifacts/mockup-sandbox/public/images/findprod-8.png"
+type = "image"
+title = "Essential oil diffuser product photo"
+
+[[generated]]
+id = "GkJ2y7wUjl9uDvpbdt-S6"
+uri = "file://artifacts/mockup-sandbox/public/images/findprod-9.png"
+type = "image"
+title = "Magnetic blocks product photo"
+
+[[generated]]
+id = "GiVAx-pSZ8hLfY262riY0"
+uri = "file://artifacts/mockup-sandbox/public/images/findprod-10.png"
+type = "image"
+title = "Mini camera product photo"
+
+[[generated]]
+id = "unfP1-8u9He5c86i5hORP"
+uri = "file://artifacts/mockup-sandbox/public/images/warehouse-interior.png"
+type = "image"
+title = "Warehouse interior"
+
+[[generated]]
+id = "y1SFrjPsHSt41_UcnddrL"
+uri = "file://artifacts/mockup-sandbox/public/images/world-map-pins.png"
+type = "image"
+title = "World map with pins"
+
+[[generated]]
+id = "pHGl36JpLpMVfcekFP4pt"
+uri = "file://artifacts/mockup-sandbox/public/images/sourcing-hero.png"
+type = "image"
+title = "sourcing agent desk"
+
+[[generated]]
+id = "93wiAYn_-6jMD46vdNk4-"
+uri = "file://artifacts/mockup-sandbox/public/images/blog-hero.png"
+type = "image"
+title = "Trending products hero image"
+
+[[generated]]
+id = "95XVGegoLv2kTDX50TvEl"
+uri = "file://artifacts/mockup-sandbox/public/images/blog-1.png"
+type = "image"
+title = "Zero dollar dropshipping"
+
+[[generated]]
+id = "p1kCAdfufyK_f_uwGVptl"
+uri = "file://artifacts/mockup-sandbox/public/images/blog-2.png"
+type = "image"
+title = "Best dropshipping products"
+
+[[generated]]
+id = "z8EXaTF298_7sT516DxJB"
+uri = "file://artifacts/mockup-sandbox/public/images/blog-3.png"
+type = "image"
+title = "CJ vs AliExpress comparison"
+
+[[generated]]
+id = "jl18AGcSnnTl-fIGNGTei"
+uri = "file://artifacts/mockup-sandbox/public/images/blog-4.png"
+type = "image"
+title = "Handling customer returns"
+
+[[generated]]
+id = "uD1vPjWiH9w_bhL3ZmSuS"
+uri = "file://artifacts/mockup-sandbox/public/images/blog-5.png"
+type = "image"
+title = "Shopify vs WooCommerce"
+
+[[generated]]
+id = "x-H9q_LmPq5-6WKeo9GZy"
+uri = "file://artifacts/mockup-sandbox/public/images/blog-6.png"
+type = "image"
+title = "Print on demand vs dropshipping"
+
+[[generated]]
+id = "SsTcLscsWBmqADJA7ymE3"
+uri = "file://artifacts/mockup-sandbox/public/images/blog-7.png"
+type = "image"
+title = "Writing product descriptions"
+
+[[generated]]
+id = "IbsEmxqhIVMYx4n2WqDW6"
+uri = "file://artifacts/mockup-sandbox/public/images/blog-8.png"
+type = "image"
+title = "Top dropshipping niches"
+
+[[generated]]
+id = "zhXUZAwh7e3wNlc68H1Ms"
+uri = "file://artifacts/mockup-sandbox/public/images/blog-9.png"
+type = "image"
+title = "Automated fulfillment process"
+
+[[generated]]
+id = "k65T0w1pC0XcA1XzGdbvI"
+uri = "file://artifacts/mockup-sandbox/public/images/podcast-hero.png"
+type = "image"
+title = "podcast artwork"
+
+[[generated]]
+id = "KXVyXByCbhjsZ2uSGflTV"
+uri = "file://artifacts/mockup-sandbox/public/images/podcast-ep-1.png"
+type = "image"
+title = "podcast episode 1"
+
+[[generated]]
+id = "MQnGoZSzCLACPE0VDrydf"
+uri = "file://artifacts/mockup-sandbox/public/images/podcast-ep-2.png"
+type = "image"
+title = "podcast episode 2"
+
+[[generated]]
+id = "f9Y9_YHMMm6WGNQp8j23M"
+uri = "file://artifacts/mockup-sandbox/public/images/podcast-ep-3.png"
+type = "image"
+title = "podcast episode 3"
+
+[[generated]]
+id = "x0U5llLaGtRThCCWkhvVP"
+uri = "file://artifacts/mockup-sandbox/public/images/podcast-ep-4.png"
+type = "image"
+title = "podcast episode 4"
+
+[[generated]]
+id = "qq2hwo482lI5clGzTIN33"
+uri = "file://artifacts/mockup-sandbox/public/images/podcast-ep-5.png"
+type = "image"
+title = "podcast episode 5"
+
+[[generated]]
+id = "RU19ADybeJ5GOdG_Xc8or"
+uri = "file://artifacts/mockup-sandbox/public/images/podcast-ep-6.png"
+type = "image"
+title = "podcast episode 6"
+
+[[generated]]
+id = "iXzmg750In_e6_1ff0nOk"
+uri = "file://artifacts/mockup-sandbox/public/images/academy-featured.png"
+type = "image"
+title = "featured course thumbnail"
+
+[[generated]]
+id = "7Za714cqOj9S16gpp8b_K"
+uri = "file://artifacts/mockup-sandbox/public/images/academy-course-1.png"
+type = "image"
+title = "course 1 winning products"
+
+[[generated]]
+id = "2Wk4SppqsNZPJansapUWx"
+uri = "file://artifacts/mockup-sandbox/public/images/academy-course-2.png"
+type = "image"
+title = "course 2 shopify store"
+
+[[generated]]
+id = "me7hVOKEZyVSd0sUP2vkh"
+uri = "file://artifacts/mockup-sandbox/public/images/academy-course-3.png"
+type = "image"
+title = "course 3 facebook ads"
+
+[[generated]]
+id = "SW8pjMzBM1idAjzGib-fL"
+uri = "file://artifacts/mockup-sandbox/public/images/academy-course-4.png"
+type = "image"
+title = "course 4 seo dropshipping"
+
+[[generated]]
+id = "kPWCOG6yFq_OgoPKIJen1"
+uri = "file://artifacts/mockup-sandbox/public/images/academy-course-5.png"
+type = "image"
+title = "course 5 email marketing"
+
+[[generated]]
+id = "Wg4Q5bFzEYppgvBfF05TF"
+uri = "file://artifacts/mockup-sandbox/public/images/academy-course-6.png"
+type = "image"
+title = "course 6 scaling business"
+
+[[generated]]
+id = "rJQ4vCDjX9LoQwUqZbdfH"
+uri = "file://artifacts/mockup-sandbox/public/images/academy-vid-1.png"
+type = "image"
+title = "video tutorial 1"
+
+[[generated]]
+id = "yQUZGLcFGC6zTfP_2ywlC"
+uri = "file://artifacts/mockup-sandbox/public/images/academy-vid-2.png"
+type = "image"
+title = "video tutorial 2"
+
+[[generated]]
+id = "NuBZiLKnMmf5WV4NZ4Wss"
+uri = "file://artifacts/mockup-sandbox/public/images/academy-vid-3.png"
+type = "image"
+title = "video tutorial 3"
+
+[[generated]]
+id = "tORQ8VPsBEVfeJOHXw29r"
+uri = "file://artifacts/mockup-sandbox/public/images/cj-login-illustration.png"
+type = "image"
+title = "cj-login-illustration"
+
+[[generated]]
+id = "YyR4FL-dIn1Pp1vw6OcMZ"
+uri = "file://artifacts/mockup-sandbox/public/images/prod-earbuds.png"
+type = "image"
+title = "wireless earbuds product photo"
+
+[[generated]]
+id = "XcUaqqnKs8CHHcVh67czY"
+uri = "file://artifacts/mockup-sandbox/public/images/prod-lamp.png"
+type = "image"
+title = "led desk lamp product photo"
+
+[[generated]]
+id = "eO2IIjkL0VAw8dTeOS7hS"
+uri = "file://artifacts/mockup-sandbox/public/images/prod-cases.png"
+type = "image"
+title = "phone case set product photo"
+
+[[generated]]
+id = "oYb-qMYZOoly1skDLKn7J"
+uri = "file://artifacts/mockup-sandbox/public/images/cj-earbuds-main.png"
+type = "image"
+title = "earbuds main"
+
+[[generated]]
+id = "4rUZruGCsm8snX6dvUxid"
+uri = "file://artifacts/mockup-sandbox/public/images/cj-earbuds-thumb1.png"
+type = "image"
+title = "earbuds thumb 1"
+
+[[generated]]
+id = "1J63bGlkK6f9vuLAcX2sE"
+uri = "file://artifacts/mockup-sandbox/public/images/cj-earbuds-thumb2.png"
+type = "image"
+title = "earbuds thumb 2"
+
+[[generated]]
+id = "-DdRbB15zr6DvCHCdwoJp"
+uri = "file://artifacts/mockup-sandbox/public/images/cj-earbuds-feature1.png"
+type = "image"
+title = "earbuds feature 1"
+
+[[generated]]
+id = "X616zYSRfnkSkkaeABh3z"
+uri = "file://artifacts/mockup-sandbox/public/images/cj-avatar-1.png"
+type = "image"
+title = "avatar 1"
+
+[[generated]]
+id = "nWu4mrPUOQGD1hjA_xCGo"
+uri = "file://artifacts/mockup-sandbox/public/images/cj-avatar-2.png"
+type = "image"
+title = "avatar 2"
+
+[[generated]]
+id = "vfsC6pUOVtNrdaQhZsIpW"
+uri = "file://artifacts/mockup-sandbox/public/images/cj-avatar-3.png"
+type = "image"
+title = "avatar 3"
+
+[[outputs]]
+id = "AsmcFq63eE8zoeFxPHq5y"
+uri = "file://screenshots/01-homepage.jpg"
+type = "image"
+title = "01 — Homepage"
+
+[[outputs]]
+id = "Ri5U-mOpA6N_53_uXEMBn"
+uri = "file://screenshots/02-find-products.jpg"
+type = "image"
+title = "02 — Find Products"
+
+[[outputs]]
+id = "q8d-DqnjJ5BFsArRPqX8N"
+uri = "file://screenshots/03-source-for-me.jpg"
+type = "image"
+title = "03 — Source For Me"
+
+[[outputs]]
+id = "qknj5nQxVyJYJ40tfRUF_"
+uri = "file://screenshots/04-warehouse.jpg"
+type = "image"
+title = "04 — Warehouse"
+
+[[outputs]]
+id = "OxzequLkRHMAm4VcINx7Q"
+uri = "file://screenshots/05-services.jpg"
+type = "image"
+title = "05 — Services"
+
+[[outputs]]
+id = "hCEEHMzRLvgsvxeFhEGyz"
+uri = "file://screenshots/06-blog.jpg"
+type = "image"
+title = "06 — Blog"
+
+[[outputs]]
+id = "ndNr5c92BA1JilNajLf6v"
+uri = "file://screenshots/07-academy.jpg"
+type = "image"
+title = "07 — Academy"
+
+[[outputs]]
+id = "NEvp5wPAx3ZYErclYr4n1"
+uri = "file://screenshots/08-podcast.jpg"
+type = "image"
+title = "08 — Podcast"
+
+[[outputs]]
+id = "aDhDDX_-cFRijA8qixCyQ"
+uri = "file://screenshots/09-login.jpg"
+type = "image"
+title = "09 — Login / Sign Up"
+
+[[outputs]]
+id = "vmkolVhHiS8dCN-HgB2PH"
+uri = "file://screenshots/10-product-detail.jpg"
+type = "image"
+title = "10 — Product Detail"
+
+[[outputs]]
+id = "WiCR898jR5Fn83p_4uLp4"
+uri = "file://screenshots/11-checkout.jpg"
+type = "image"
+title = "11 — Cart & Checkout"
+
+[[outputs]]
+id = "n_2__io_E2n8CnhYFgsOE"
+uri = "file://cj-dropshipping-website.zip"
+type = "unspecified"
+title = "CJ Dropshipping Website (Full Code + Screenshots)"
+
+[[outputs]]
+id = "V2AY099rGB10wd7n_0Z4C"
+uri = "file://cj-dropshipping-full.zip"
+type = "unspecified"
+title = "CJ Dropshipping — Website + Design Mockups + Screenshots"
