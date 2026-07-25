@@ -15,9 +15,6 @@ import Podcast from "@/pages/Podcast";
 import Login from "@/pages/Login";
 import ProductDetail from "@/pages/ProductDetail";
 import Checkout from "@/pages/Checkout";
-import CheckoutShipping from "@/pages/CheckoutShipping";
-import CheckoutPayment from "@/pages/CheckoutPayment";
-import CheckoutConfirmation from "@/pages/CheckoutConfirmation";
 
 const queryClient = new QueryClient();
 
@@ -35,9 +32,6 @@ function Router() {
       <Route path="/login" component={Login} />
       <Route path="/product/:id" component={ProductDetail} />
       <Route path="/checkout" component={Checkout} />
-      <Route path="/checkout/shipping" component={CheckoutShipping} />
-      <Route path="/checkout/payment" component={CheckoutPayment} />
-      <Route path="/checkout/confirmation" component={CheckoutConfirmation} />
       <Route component={NotFound} />
     </Switch>
   );
